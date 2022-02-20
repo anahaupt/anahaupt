@@ -1,4 +1,4 @@
-### Hello, I'm Ana Haupt 
+### Hello, I'm Ana Haupt🖐🏻
 
 - 📈 I’m currently working on Financial Consultant, FP&A
 - 👩🏻‍🎓 I’m currently learning Python, R 
