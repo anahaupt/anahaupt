@@ -1,7 +1,7 @@
 ### Hello, I'm Ana Haupt🖐🏻
 
 - 📈 I’m currently working on Financial Consultant, FP&A
-- 👩🏻‍🎓 I’m currently learning Python, R, Tableau 
+- 👩🏻‍🎓 I’m currently learning No Code, Tableau, Pyhton
 - 👩🏻 Pronouns: she/her
 
 <!--
