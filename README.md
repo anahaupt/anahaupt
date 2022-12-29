@@ -1,7 +1,7 @@
 ### Hello, I'm Ana Haupt🖐🏻
 
-- 📈 I’m currently working as a Financial Consultant, FP&A
-- 👩🏻‍🎓 I’m currently learning No Code, Tableau, Pyhton
+- 📈 I’m a Financial Consultant looking for a carrer shift to Data Analysis
+- 👩🏻‍🎓 I’m currently learning the Google Data Analytics Professional Certificate (R, Tableau, SQL, Python)
 - 👩🏻 Pronouns: she/her
 
 <!--
