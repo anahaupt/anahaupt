@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **Data Analysis, Business Analysis, and Financial Data Analysis**
 
-- 🔍 I’m looking for help with **become an expert in Data Analysis**
+- 🔎 I’m looking for help with **become an expert in Data Analysis**
 
 - 💻 Some of my projects are available [here](https://anahaupt.my.canva.site/)
 
