@@ -9,6 +9,4 @@
 
 - 👨‍💻 All of my projects are available at [https://anahaupt.my.canva.site/](https://anahaupt.my.canva.site/)
 
-<-- - 📫 How to reach me **anashaupt@gmail.com** 
--->
 - 📄 Know about my experiences [https://www.linkedin.com/in/anahaupt/](https://www.linkedin.com/in/anahaupt/)
