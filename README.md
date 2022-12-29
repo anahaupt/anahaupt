@@ -1,20 +1,14 @@
-### Hello, I'm Ana Haupt🖐🏻
+<h2>Hi 👋, I'm Ana Haupt</h2>
+<h3 >A passionate Finance and Data Analytics</h3>
 
-- 📈 I’m a Financial Consultant looking for a carrer shift to Data Analysis
-- 👩🏻‍🎓 I’m currently learning the Google Data Analytics Professional Certificate (R, Tableau, SQL, Python)
-- 👩🏻 Pronouns: she/her
+- 🌱 I’m currently learning **SQL, R, Python** for Google Data Analytics Professional Certificate
 
-<!--
-**anahaupt/anahaupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **Data Analysis, Business Analysis, and Financial Data Analysis**
 
-Here are some ideas to get you started:
+- 🤝 I’m looking for help with **become an expert in Data Analysis**
 
-- 🔭 I’m currently working on Financial Consultant, FP&A
-- 🌱 I’m currently learning Python, R 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://anahaupt.my.canva.site/](https://anahaupt.my.canva.site/)
+
+- 📫 How to reach me **anashaupt@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/anahaupt/](https://www.linkedin.com/in/anahaupt/)
